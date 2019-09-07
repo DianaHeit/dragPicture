@@ -1,0 +1,29 @@
+body {
+  background-color: #000111;
+  margin: 2rem;
+  text-align: center;
+  font-family: 'Gayathri', sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+#div1 {
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 6px;
+}
+
+img {
+  width: 180px;
+  height: 280px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.card-box {
+  display: inline-flex;
+}
